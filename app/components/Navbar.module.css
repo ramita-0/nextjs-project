@@ -1,0 +1,13 @@
+.navigation {
+    display: flex;
+    list-style: none;
+}
+
+.link {
+    margin-left: 30px
+}
+
+.navigation a:hover {
+    color: red;
+    text-decoration: underline;
+}
